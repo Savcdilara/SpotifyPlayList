@@ -1,0 +1,14 @@
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\SpotifyPlayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\SpotifyPlayList.AssemblyInfoInputs.cache
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\SpotifyPlayList.AssemblyInfo.cs
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\SpotifyPlayList.csproj.CoreCompileInputs.cache
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\bin\Debug\net7.0\SpotifyPlayList.exe
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\bin\Debug\net7.0\SpotifyPlayList.deps.json
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\bin\Debug\net7.0\SpotifyPlayList.runtimeconfig.json
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\bin\Debug\net7.0\SpotifyPlayList.dll
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\bin\Debug\net7.0\SpotifyPlayList.pdb
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\SpotifyPlayList.dll
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\refint\SpotifyPlayList.dll
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\SpotifyPlayList.pdb
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\SpotifyPlayList.genruntimeconfig.cache
+C:\Users\savcd\source\repos\SpotifyPlayList\SpotifyPlayList\obj\Debug\net7.0\ref\SpotifyPlayList.dll
